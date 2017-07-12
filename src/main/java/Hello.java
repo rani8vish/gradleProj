@@ -1,11 +1,11 @@
 
 public class Hello {
   
-  public static String GREETING = "Hello world!"; 
+  public static String greeting = "Hello world!"; 
   
   public static void main(String []args) {
-  System.out.println("Print"+GREETING);
-  	System.out.println("Print in Second line "+GREETING);
+  System.out.println("Print"+greeting);
+  	System.out.println("Print in Second line "+greeting);
   }  
 }
 
